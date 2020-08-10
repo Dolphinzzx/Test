@@ -240,7 +240,7 @@ namespace Tinybit {
 
 
     //% blockId=Tinybit_Asr_Add_Words block="Asr_Add_Words"
-    //% weight=88
+    //% weight=96
     //% blockGap=10
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=12
     export function Asr_Add_Words (): void {
